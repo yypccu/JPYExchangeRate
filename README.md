@@ -1,0 +1,2 @@
+# JPYExchangeRate
+JPYExchangeRate
