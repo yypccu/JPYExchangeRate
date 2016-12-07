@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8759bfebeb27d53ed4d28fdf11cb89f686b1a34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d0093357e6a0c4cfaab27f5b396bf20e75490b">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_53bf2cff4cd403bcafa98337079ef89262e53219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_444b7582efa3466fd7b1ece0692cb879f6841d9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_283f9d5f5162b785312c13752f81d806e0369aa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_99bb7018d323643717be9abbba16132d87421d27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_f52e1fab7bd1f7616e1c7b2ccce871644d4e92cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1c92dd2c0b2730092085409dc117f15e73f24cf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="baba1f2bcaeebd66c780f4bc55dece753c1aea1d">
+        <dex dex="C:\Users\I5-4430\AndroidStudioProjects\JPNNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f3811de5387912132e33e25a7432118f53e4f54f\classes.dex" />
+    </item>
+
+</items>
