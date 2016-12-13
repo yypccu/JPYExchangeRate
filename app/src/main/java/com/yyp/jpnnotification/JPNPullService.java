@@ -40,17 +40,13 @@ public class JPNPullService extends IntentService {
         showToast("Finishing IntentService");
     }
 
-    protected void getPriceFromWebsite() throws IOException{
-
-    }
-
     protected void showNotification () {
         NotificationManager mNotificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
         NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this)
                 .setSmallIcon(R.drawable.fukuzawa)
-                .setContentTitle("台灣銀行日幣匯率")
-                .setContentText("2016/12/05 " + "賣出 0.2845");
-        int mId = 219;
+                .setContentTitle("TWBank JPY Rate")
+                .setContentText(Bank.getDate() + " 賣出 " + Bank.getJpyPrice());
+        int mId = 219; //
         mNotificationManager.notify(mId, mBuilder.build());
     }
 
